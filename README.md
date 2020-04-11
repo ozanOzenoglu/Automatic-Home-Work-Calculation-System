@@ -1,0 +1,1 @@
+Download the report for detailied usage information for below scripts.This scripts are written when I was in University for my lab homework.It basically checks folder for expected hierarchy and files and calculates the points for submitted homework of other students .
